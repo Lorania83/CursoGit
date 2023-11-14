@@ -6,6 +6,7 @@ public class Hojaestilo {
 		System.out.println("Estilos");
 		System.out.println("Añadir enlace");
 		System.out.println("Proyecto empresarial");
+		System.out.println("Nuevo cambio");
 	}
 
 }
